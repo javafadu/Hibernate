@@ -1,2 +1,7 @@
 eclipse.preferences.version=1
 encoding//src/main/java/com/hb01/annotations/RunnerFetch01.java=UTF-8
+encoding//src/main/java/com/hb03/onetoone/RunnerSave03.java=UTF-8
+encoding//src/main/java/com/hb03/onetoone/Student03.java=UTF-8
+encoding//src/main/java/com/hb04/onatomany/RunnerFetch04.java=UTF-8
+encoding//src/main/java/com/hb04/onatomany/Student04.java=UTF-8
+encoding//src/main/java/com/hb05/manytomany/RunnerFetch05.java=UTF-8
